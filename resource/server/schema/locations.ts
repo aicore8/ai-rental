@@ -2,8 +2,8 @@ import {
   BLIP_STYLE_FIELDS,
   PLACE_PED_SPEC,
   placePedFields,
-} from "@aifivem/lib/shared";
-import type { FileSpec, TabSpec } from "@aifivem/shared";
+} from "@aicore8/lib/shared";
+import type { FileSpec, TabSpec } from "@aicore8/shared";
 
 export const locationsFile: FileSpec = {
   kind: "records",

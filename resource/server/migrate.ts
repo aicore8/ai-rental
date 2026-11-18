@@ -1,5 +1,5 @@
-import type { AdminPanel } from "@aifivem/lib/server";
-import { int, record, str } from "@aifivem/lib/shared";
+import type { AdminPanel } from "@aicore8/lib/server";
+import { int, record, str } from "@aicore8/lib/shared";
 
 type Offer = { model: string; label: string; fee: number; deposit: number };
 
