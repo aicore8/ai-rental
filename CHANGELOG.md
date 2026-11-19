@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.6](https://github.com/aicore8/ai-rental/compare/v0.1.5...v0.1.6) (2026-11-18)
+
+
+### Miscellaneous Chores
+
+* rename aifivem to aicore8 (aicore8.com, github.com/aicore8, [@aicore8](https://github.com/aicore8) npm scope) ([f80034c](https://github.com/aicore8/ai-rental/commit/f80034cdd68c0c2211c1cdac42dd96949aa0c678))
+
 ## [0.1.5](https://github.com/aicore8/ai-rental/compare/v0.1.4...v0.1.5) (2026-11-02)
 
 
